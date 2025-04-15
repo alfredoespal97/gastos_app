@@ -1,0 +1,2 @@
+D:/GitHub/gastos_app/android/app/.cxx/RelWithDebInfo/2jm692k3/x86/CMakeFiles/edit_cache.dir
+D:/GitHub/gastos_app/android/app/.cxx/RelWithDebInfo/2jm692k3/x86/CMakeFiles/rebuild_cache.dir
